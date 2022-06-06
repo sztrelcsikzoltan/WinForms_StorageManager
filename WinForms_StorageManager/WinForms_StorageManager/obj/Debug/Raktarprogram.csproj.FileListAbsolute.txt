@@ -1,0 +1,145 @@
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\settings.csv
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe.config
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.pdb
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\BouncyCastle.Crypto.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Ubiety.Dns.Core.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Memory.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Buffers.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Hash.xxHash.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Numerics.Vectors.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\MySql.Data.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.AssemblyReference.cache
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.DatabaseForm.resources
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.Properties.Resources.resources
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.GenerateResource.cache
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.CoreCompileInputs.cache
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.exe
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.pdb
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.MenuForm.resources
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StartForm.resources
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\MySql.Data.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\ZstdNet.dll
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.pdb
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Hash.xxHash.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Buffers.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Memory.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Numerics.Vectors.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.ProductsForm.resources
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\sales.txt
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StatisticsForm.resources
+D:\_C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.SalesForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\sales.txt
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe.config
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.pdb
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\BouncyCastle.Crypto.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Hash.xxHash.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\MySql.Data.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Buffers.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Memory.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Numerics.Vectors.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Ubiety.Dns.Core.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\ZstdNet.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.pdb
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\K4os.Hash.xxHash.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\MySql.Data.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Buffers.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Memory.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Numerics.Vectors.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StatisticsForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.SalesForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.ProductsForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.DatabaseForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.MenuForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StartForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.Properties.Resources.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.GenerateResource.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.exe
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\211021 Raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.pdb
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\sales.txt
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe.config
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.pdb
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\BouncyCastle.Crypto.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Hash.xxHash.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\MySql.Data.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Buffers.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Memory.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Numerics.Vectors.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Ubiety.Dns.Core.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\ZstdNet.dll
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.pdb
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Hash.xxHash.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\MySql.Data.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Buffers.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Memory.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Numerics.Vectors.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.AssemblyReference.cache
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StatisticsForm.resources
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.SalesForm.resources
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.ProductsForm.resources
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.DatabaseForm.resources
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.MenuForm.resources
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StartForm.resources
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.Properties.Resources.resources
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.GenerateResource.cache
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.CoreCompileInputs.cache
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.exe
+F:\_C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.pdb
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StatisticsForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.SalesForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.ProductsForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.DatabaseForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.MenuForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.StartForm.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.Properties.Resources.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.GenerateResource.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\sales.txt
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe.config
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.exe
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Raktarprogram.pdb
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\BouncyCastle.Crypto.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Google.Protobuf.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\K4os.Hash.xxHash.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\MySql.Data.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Buffers.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Memory.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\Ubiety.Dns.Core.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\ZstdNet.dll
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\bin\Debug\MySql.Data.xml
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.AssemblyReference.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.exe
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.pdb
+C:\Data\pers dev\IT\KKSZKI\C#\211021 WinForms raktarprogram\Raktarprogram\obj\Debug\Raktarprogram.csproj.SuggestedBindingRedirects.cache
