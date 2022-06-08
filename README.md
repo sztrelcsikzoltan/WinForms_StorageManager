@@ -5,6 +5,7 @@ Storage manager desktop application based on Windows Forms App (.NET Framework) 
 
 * Simple Windows application to manage products, sales and users.
 * Connects to local MySQL database. Automatically creates database, its default tables and fields if not present.
+* Displays the last executed MySQL command at the bottom of the window.
 * Displays and saves statistics for total sales.
 
 <p align="left">
